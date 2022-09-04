@@ -1,10 +1,8 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 👋 𝙷𝙴𝙻𝙾 {user}
-
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 {bot},
-Agar Tusi Bhi Movies/Web Series Lena Chonde Ho Menu Apne Group Vich Add Karo Te Admin Di Permission Deo Thankyou 😽😍"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 👋 𝙷𝙴𝙻𝙾 {user} 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 {bot},Agar Tusi Bhi Movies/Web Series Lena Chonde Ho Menu Apne Group Vich Add Karo Te Admin Di Permission Deo Thankyou 😽😍"""
+    HELP_TXT = ""
+"𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
